@@ -1,0 +1,16 @@
+2. Terminología
+Existen una serie de términos que se utilizan y son comunes para la mayoría de las herramientas de
+control de versiones
+● Repositorio: Lugar donde se almacenan todos los datos y los cambios.
+● Revisión o versión: Una revisión es una versión concreta de los datos almacenados.
+● Tag: Cuando se crea una versión concreta en un momento determinado del desarrollo de un
+proyecto se le pone una etiqueta, de forma que se pueda localizar y recuperar en cualquier
+momento.
+● Tronco (trunk): Línea principal de desarrollo de un proyecto.
+● Rama o ramificar (branch): Las ramas son copias de archivos , carpetas o proyectos. Cuando se crea
+una rama se crea una bifurcación del proyecto y se crean dos líneas de desarrollo.
+● Checkout: Crear una copia de trabajo del proyecto, o de archivos y carpetas del repositorio en el
+equipo local. Por defecto se obtiene la última versión, aunque también se puede indicar una versión
+concreta.
+● Commit o checkin: Se realiza commit cuando se confirman los cambios realizados en local para
+integrarlos al repositorio. 
